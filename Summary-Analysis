@@ -1,0 +1,8 @@
+Unit 4-Assignment-Pandas-Pandas-Pandas
+Summary Analysis for “PyCity Schools Analysis”
+
+Based on the Summary Data, below are the few trends that I have observed
+  1. The Overall Passing Rate for Charter schools is higher than any other school types.
+  2. The spending per student increases as the Overall Passing rate goes down.
+  3. The average scores across all the subjects and the overall passing rate is better when
+    there are less students (school size is smaller). The more students or larger school size the scores go down.
